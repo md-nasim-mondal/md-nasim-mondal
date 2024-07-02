@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D5616AQE7rEGXesQWBw/profile-displaybackgroundimage-shrink_350_1400/0/1714731715094?e=1725494400&v=beta&t=0N-98ofLDmrunyzjhqHosE4w9xOFSKpALe2TeWaLg8M" alt="Header Image"/>
 <h1 align="center">Hello 👋, I'm Md. Nasim Mondal</h1>
-<h3 align="center"I am a junior MERN Stack Developer currently studying B.Sc
+<p align="center"I am a junior MERN Stack Developer currently studying B.Sc
               IN CSE at Uttara University. I specialize in HTML, CSS,
               JavaScript, and React JS, creating responsive, user-friendly
               websites. I aim to leverage my technical skills and passion for

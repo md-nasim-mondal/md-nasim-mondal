@@ -1,6 +1,13 @@
 <img src="https://media.licdn.com/dms/image/D5616AQE7rEGXesQWBw/profile-displaybackgroundimage-shrink_350_1400/0/1714731715094?e=1725494400&v=beta&t=0N-98ofLDmrunyzjhqHosE4w9xOFSKpALe2TeWaLg8M" alt="Header Image"/>
-<h1 align="center">Hi 👋, I'm Md. Nasim Mondal</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangaladesh</h3>
+<h1 align="center">Hello 👋, I'm Md. Nasim Mondal</h1>
+<h3 align="center"I am a junior MERN Stack Developer currently studying B.Sc
+              IN CSE at Uttara University. I specialize in HTML, CSS,
+              JavaScript, and React JS, creating responsive, user-friendly
+              websites. I aim to leverage my technical skills and passion for
+              web development to contribute to a dynamic team and grow
+              professionally in a forward-thinking company. My goal is to work
+              in a competitive environment where I can develop as a professional
+              and help achieve the organization&apos;s goals.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-nasim-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="md-nasim-mondal" /> </p>
 

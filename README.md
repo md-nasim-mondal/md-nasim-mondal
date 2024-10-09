@@ -79,5 +79,5 @@ I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara Univ
 ![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%23007ACC.svg?style=for-the-badge&logo=react-table&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<!--![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->

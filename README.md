@@ -22,7 +22,7 @@ I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara Univ
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-nasim-mondal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   
-  <img width="10" height="1" />
+  <img width="5" height="1" />
 
   <a href="https://github.com/md-nasim-mondal">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=md-nasim-mondal&layout=compact&langs_count=8&theme=algolia"/>

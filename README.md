@@ -14,16 +14,16 @@ I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara Univ
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nasim-mondal&show_icons=true&locale=en&layout=compact" alt="md-nasim-mondal"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/md-nasim-mondal">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=md-nasim-mondal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
   </a>
 
   <a href="https://github.com/md-nasim-mondal">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=md-nasim-mondal&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&" alt="md-nasim-mondal"/>
   </a>
 </p>
 

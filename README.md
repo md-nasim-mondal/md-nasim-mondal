@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/x6mdZHx/Navy-Blue-Geometric-Technology-Linked-In-Banner-Final.png" alt="Header Image"/>
+<!--<img src="https://i.ibb.co/x6mdZHx/Navy-Blue-Geometric-Technology-Linked-In-Banner-Final.png" alt="Header Image"/>-->
+<img src="https://i.ibb.co.com/KLbsDT1/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner-1" border="0">
 <h1 align="center">Hello 👋, I'm Md. Nasim Mondal</h1>
 <h3 align="center" ></h3></h3>
 

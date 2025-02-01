@@ -20,12 +20,20 @@ I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara Univ
 
 <p align="center">
   <a href="https://github.com/md-nasim-mondal" align="left">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
+    <img height="180em" width="400em" src="https://github-readme-stats-omega-peach.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
   </a>
   <a href="https://github.com/md-nasim-mondal" align="right">
     <img height="180em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&" alt="md-nasim-mondal"/>
   </a>
 </p>
+<!--<p align="center">
+  <a href="https://github.com/md-nasim-mondal" align="left">
+    <img height="180em" width="400em" src="https://github-readme-stats-omega-peach.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
+  </a>
+  <a href="https://github.com/md-nasim-mondal" align="right">
+    <img height="180em" width="420em" src="https://github-readme-stats-omega-peach.vercel.app/?user=md-nasim-mondal&" alt="md-nasim-mondal"/>
+  </a>
+</p>-->
 
 
 ## 🌐 Connect with Me

@@ -22,7 +22,7 @@ I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara Univ
 <p align="center">
   <a href="https://github.com/md-nasim-mondal" align="left">
     <img height="180" width="400" src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal" alt="md-nasim-mondal"/>
-  </a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=md-nasim-mondal&hide_border=true&card_width=420&card_height=178" alt="GitHub Streak" /></a>
+  </a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=md-nasim-mondal&hide_border=false&card_width=420&card_height=178" alt="GitHub Streak" /></a>
 <!--   <a href="https://github.com/md-nasim-mondal" align="left">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
   </a> -->

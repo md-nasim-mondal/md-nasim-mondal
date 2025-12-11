@@ -5,7 +5,12 @@
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=md-nasim-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="md-nasim-mondal" /> ![GitHub followers](https://img.shields.io/github/followers/md-nasim-mondal) ![GitHub User's stars](https://img.shields.io/github/stars/md-nasim-mondal)
 
-I am a junior MERN Stack Developer currently studying B.Sc IN CSE at Uttara University. I specialize in HTML, CSS, JavaScript, and React JS, creating responsive, user-friendly websites. I aim to leverage my technical skills and passion for web development to contribute to a dynamic team and grow professionally in a forward-thinking company. My goal is to work in a competitive environment where I can develop as a professional and help achieve the organization&apos;s goals.
+I am a Full Stack Developer (MERN Stack) currently working at Spark71Tech and studying B.Sc in CSE at Uttara University.
+I work with HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, and Next.js to build clean and responsive UI.
+For backend development, I use Node.js, Express.js, Typescript, MongoDB, PostgreSQL, Mongoose, and Prisma to create secure and scalable APIs.
+
+I enjoy building useful web applications and improving my skills through real projects.
+My goal is to grow as a developer, take on new challenges, and contribute to meaningful products.
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nasim-mondal" alt="md-nasim-mondal" /></a> </p>-->
 

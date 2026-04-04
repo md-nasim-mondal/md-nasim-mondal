@@ -16,7 +16,7 @@ My goal is to grow as a developer, take on new challenges, and contribute to mea
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript and React JS**
 - 📫 How to reach me **mdnasimmondal622@gmail.com**
-- 📄 Learn more about me in [resume](https://drive.google.com/file/d/1sTZr36o1IEOwKRYUAsDVpjXF4LMXtvEt/view?usp=sharing)
+- 📄 Learn more about me in [resume](https://drive.google.com/file/d/1JJpR3gOLv4vG4ONN4Fk3Vpm1Jvu0ktnt/view?usp=drive_link)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal\&include_all_commits=true)](https://github-readme-stats-blue-nu-75.vercel.app)-->
 

@@ -32,7 +32,7 @@
 const nasim = {
   role: "Backend Developer @ SparkTech",
   location: "Gazipur, Dhaka, Bangladesh 🇧🇩",
-  studying: "B.Sc in CSE @ Uttara University (Expected: 2026)",
+  studying: "B.Sc in CSE @ Uttara University (Expected Graduate: 2026)",
 
   expertise: {
     backend:  ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Redis"],

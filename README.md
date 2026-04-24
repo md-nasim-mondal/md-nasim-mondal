@@ -25,15 +25,26 @@ My goal is to grow as a developer, take on new challenges, and contribute to mea
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nasim-mondal&show_icons=true&locale=en&layout=compact" alt="md-nasim-mondal"/>
 </p>
 <p align="center">
+  <a href="https://github.com/md-nasim-mondal">
+    <img height="180em" width="420em"
+         src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal&hide_border=false"
+         alt="md-nasim-mondal"
+         style="vertical-align: top;" />
+  </a> 
+
+  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=md-nasim-mondal&hide_border=false&card_width=420&card_height=178" alt="GitHub Streak" /></a> -->
+
   <!-- <a href="https://github.com/md-nasim-mondal" align="left">
-    <img height="180" width="400" src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal" alt="md-nasim-mondal"/>
-  </a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=md-nasim-mondal&hide_border=false&card_width=420&card_height=178" alt="GitHub Streak" /></a> -->
-  <a href="https://github.com/md-nasim-mondal" align="left">
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
+  </a> -->
+
+  <a href="https://github.com/md-nasim-mondal">
+    <img height="180em" width="420em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&card_width=420&card_height=180"
+         alt="md-nasim-mondal"
+         style="vertical-align: top;" />
   </a>
-  <a href="https://github.com/md-nasim-mondal" align="right">
-    <img height="180em" width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&" alt="md-nasim-mondal"/>
-  </a>
+
   <!--
 This is comment system...!!!...!!!...!!!...!!!...!!!...!!!...!!!
   -->

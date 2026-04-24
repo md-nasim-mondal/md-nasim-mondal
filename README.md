@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Backend+Developer+%40+SparkTech+Agency+%F0%9F%9A%80;Node.js+%7C+Express.js+%7C+TypeScript+Expert;PostgreSQL+%7C+MongoDB+%7C+Prisma+ORM;Full+Stack+%7C+Next.js+%7C+React.js;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Backend+Developer+%40+SparkTech+%F0%9F%9A%80;Node.js+%7C+Express.js+%7C+TypeScript+Expert;PostgreSQL+%7C+MongoDB+%7C+Prisma+ORM;Full+Stack+%7C+Next.js+%7C+React.js;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 ```typescript
 const nasim = {
-  role: "Backend Developer @ SparkTech Agency",
+  role: "Backend Developer @ SparkTech",
   location: "Gazipur, Dhaka, Bangladesh 🇧🇩",
   studying: "B.Sc in CSE @ Uttara University (Expected: 2026)",
 
@@ -57,7 +57,7 @@ const nasim = {
 
 ## 🔨 What I'm Currently Building
 
-> At **SparkTech Agency**, I'm working as a **Backend Developer** — designing and shipping production-grade APIs and database systems every day.
+> At **SparkTech**, I'm working as a **Backend Developer** — designing and shipping production-grade APIs and database systems every day.
 
 ```
 🏗️  Scalable REST APIs        →  Node.js + Express.js + TypeScript
@@ -75,7 +75,7 @@ const nasim = {
 <tr>
 <td>
 
-### 🏢 Backend Developer — **SparkTech Agency**
+### 🏢 Backend Developer — **SparkTech**
 `April 15, 2026 – Present`
 
 - 🔧 Designing and maintaining **production-grade REST APIs** with Node.js, Express.js & TypeScript
@@ -210,7 +210,7 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 **Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Stripe`
 
-[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://tourify-client.vercel.app)
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://tourify-travel.vercel.app)
 [![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/tourify-client)
 [![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/tourify-server)
 
@@ -226,13 +226,9 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 **Stack:** `React.js` `Redux Toolkit` `TypeScript` `Node.js` `MongoDB` `Redis` `Shadcn UI`
 
-<!-- [![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://swiftdrop.vercel.app)
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://swiftdrop.vercel.app)
 [![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-client)
-[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-server) -->
-
-[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://parcel-dms.vercel.app)
-[![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/parcel-dms-client)
-[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/parcel-dms-server)
+[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-server)
 
 </td>
 </tr>
@@ -258,6 +254,16 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nasim-mondal&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-trophies.vercel.app/?username=md-nasim-mondal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
 
 </div>
 

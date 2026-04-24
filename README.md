@@ -1,106 +1,329 @@
-<!--<img src="https://i.ibb.co/x6mdZHx/Navy-Blue-Geometric-Technology-Linked-In-Banner-Final.png" alt="Header Image"/>-->
-<img src="Navy Blue Geometric Technology LinkedIn Banner (1).png" alt="Navy-Blue-Geometric-Technology-Linked-In-Banner-1" border="0">
-<h1 align="center">Hello 👋, I'm Md. Nasim Mondal</h1>
-<h3 align="center" ></h3></h3>
+<div align="center">
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=md-nasim-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="md-nasim-mondal" /> ![GitHub followers](https://img.shields.io/github/followers/md-nasim-mondal) ![GitHub User's stars](https://img.shields.io/github/stars/md-nasim-mondal)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c9ff&height=230&section=header&text=Md.%20Nasim%20Mondal&fontSize=52&fontColor=fff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Full%20Stack%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=58&descSize=18&descColor=e0f7ff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 
-I am a Full Stack Developer (MERN Stack) currently working at Spark71Tech and studying B.Sc in CSE at Uttara University.
-I work with HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, and Next.js to build clean and responsive UI.
-For backend development, I use Node.js, Express.js, Typescript, MongoDB, PostgreSQL, Mongoose, and Prisma to create secure and scalable APIs.
-
-I enjoy building useful web applications and improving my skills through real projects.
-My goal is to grow as a developer, take on new challenges, and contribute to meaningful products.
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-nasim-mondal" alt="md-nasim-mondal" /></a> </p>-->
-
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript and React JS**
-- 📫 How to reach me **mdnasimmondal622@gmail.com**
-- 📄 Learn more about me in [resume](https://drive.google.com/file/d/1JJpR3gOLv4vG4ONN4Fk3Vpm1Jvu0ktnt/view?usp=drive_link)
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal\&include_all_commits=true)](https://github-readme-stats-blue-nu-75.vercel.app)-->
-
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nasim-mondal&show_icons=true&locale=en&layout=compact" alt="md-nasim-mondal"/>
-</p>
-<p align="center">
-  <a href="https://github.com/md-nasim-mondal">
-    <img height="180em" width="420em"
-         src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal&hide_border=false"
-         alt="md-nasim-mondal"
-         style="vertical-align: top;" />
-  </a> 
-
-  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-zeta-ebon-65.vercel.app?user=md-nasim-mondal&hide_border=false&card_width=420&card_height=178" alt="GitHub Streak" /></a> -->
-
-  <!-- <a href="https://github.com/md-nasim-mondal" align="left">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=md-nasim-mondal&show_icons=true&locale=en" alt="md-nasim-mondal"/>
-  </a> -->
-
-  <a href="https://github.com/md-nasim-mondal">
-    <img height="180em" width="420em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&card_width=420&card_height=180"
-         alt="md-nasim-mondal"
-         style="vertical-align: top;" />
-  </a>
-
-  <!--
-This is comment system...!!!...!!!...!!!...!!!...!!!...!!!...!!!
-  -->
-</p>
-
-
-## 🌐 Connect with Me
-
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/md-nasim-mondal)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdnasimmondal622@gmail.com)](mailto:mdnasimmondal622@gmail.com) 
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://md-nasim-mondal-portfolio1.netlify.app)](https://md-nasim-mondal-portfolio1.netlify.app) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/md.nasim.mondal.737)](https://facebook.com/md.nasim.mondal.737)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801627206676)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mdnasimmondal)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/md-nasim-mondal)](https://twitter.com/md-nasim-mondal)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/m.a.n.u.m.a.n.o.j) -->
-
-## 🛠️ Skill Set
-<div>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
-### 🎨 Front-End Technologies
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js)
-<!--![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)-->
+---
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+<div align="center">
 
-### 🔧 Backend Technologies
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Backend+Developer+%40+SparkTech+%F0%9F%9A%80;Node.js+%7C+Express.js+%7C+TypeScript+Expert;PostgreSQL+%7C+MongoDB+%7C+Prisma+ORM;Full+Stack+%7C+Next.js+%7C+React.js;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
+</div>
 
-### 🗃 &nbsp;Databases
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nasim--mondal.vercel.app-0f2027?style=for-the-badge&labelColor=203a43)](https://nasim-mondal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nasim-mondal)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnasimmondal622@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-nasim-mondal)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801627206676)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const nasim = {
+  role: "Backend Developer @ SparkTech",
+  location: "Gazipur, Dhaka, Bangladesh 🇧🇩",
+  studying: "B.Sc in CSE @ Uttara University (Expected: 2026)",
+
+  expertise: {
+    backend:  ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Redis"],
+    database: ["MongoDB", "PostgreSQL", "Prisma ORM", "Mongoose", "Supabase"],
+    frontend: ["Next.js", "React.js", "TypeScript", "Tailwind CSS"],
+    mobile:   ["React Native (Expo)"],
+  },
+
+  currentlyLearning: ["System Design", "Docker", "CI/CD Pipelines"],
+
+  workingStyle: {
+    approach:      "Clean code, modular architecture, MVC patterns",
+    collaboration: "Agile / Scrum, cross-functional teams",
+    strength:      "Rapid learner — web → mobile in one sprint 🚀",
+  },
+
+  goal: "Build scalable, impactful products with clean backend architecture",
+};
+```
+
+---
+
+## 🔨 What I'm Currently Building
+
+> At **SparkTech**, I'm working as a **Backend Developer** — designing and shipping production-grade APIs and database systems every day.
+
+```
+🏗️  Scalable REST APIs        →  Node.js + Express.js + TypeScript
+🗄️  Database Architecture     →  PostgreSQL (Prisma) + MongoDB (Mongoose)
+🔐  Auth Systems              →  JWT, Role-based Access Control, NextAuth
+⚡  Performance Optimization  →  Redis caching, Query optimization
+🔗  Third-party Integrations  →  Stripe, Cloudinary, SSLCommerz, Socket.io
+```
+
+---
+
+## 🚀 Professional Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 Backend Developer — **SparkTech**
+`April 15, 2026 – Present`
+
+- 🔧 Designing and maintaining **production-grade REST APIs** with Node.js, Express.js & TypeScript
+- 🗄️ Architecting robust database schemas using **PostgreSQL (Prisma)** & **MongoDB (Mongoose)**
+- 🔐 Building secure auth systems with **JWT** and role-based access control
+- ⚡ Optimizing backend performance with **Redis** caching and query tuning
+- 🤝 Collaborating with frontend teams to ensure seamless API integration
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏢 Full Stack Developer — **Spark71Tech**
+`Nov 5, 2025 – Jan 5, 2026`
+
+- 🏗️ Built scalable full-stack applications using **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🗄️ Developed backend architectures with **Express.js**, utilizing **MongoDB (Mongoose)** & **PostgreSQL (Prisma)**
+- 🔐 Designed secure REST APIs and optimized database schemas for system reliability
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🏢 Full Stack Developer (Intern) — **Royalx**
+`April 2025 – July 2025`
+
+- 🤝 Collaborated in cross-functional teams on **Next.js** web applications
+- 🔑 Implemented **JWT-based auth** with role-based access control
+- 📱 Rapidly mastered **React Native (Expo)** to support the Android team — web → mobile in record time
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Backend *(Primary Focus)*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,javascript,redis&theme=dark" />
+</p>
+
+### 🗄️ Databases & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma,supabase&theme=dark" />
+</p>
+
+### 🎨 Frontend & Mobile
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,bootstrap&theme=dark" />
+</p>
+
+### 🧰 Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,firebase,postman,figma,vscode&theme=dark" />
+</p>
+
+### ⚙️ More Tools
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=next.js&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0066CC?style=flat-square)
+
+---
+
+## 🧠 Working Style & Soft Skills
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⚡ Rapid Learner**
+
+Mastered React Native (Expo) mid-sprint to unblock the Android team
+
+</td>
+<td align="center" width="25%">
+
+**🧩 Problem Solver**
+
+Breaks complex backend challenges into clean, modular solutions
+
+</td>
+<td align="center" width="25%">
+
+**🤝 Team Player**
+
+Comfortable in Agile/Scrum, cross-functional, remote-friendly teams
+
+</td>
+<td align="center" width="25%">
+
+**🏗️ Clean Coder**
+
+MVC & Modular patterns, readable APIs, consistent naming conventions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ Tourify — Travel Booking Platform
+> Full-stack vacation planning with real-time tour scheduling and seamless booking.
+
+- 🎭 Role-based dashboards for **Admins, Tourists & Guides**
+- 🔍 Advanced search filters + review system
+- 💳 **Stripe** payment integration
+
+**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Stripe`
+
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://tourify-travel.vercel.app)
+[![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/tourify-client)
+[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/tourify-server)
+
+</td>
+<td width="50%">
+
+### 📦 SwiftDrop — Parcel Delivery System
+> Unified delivery management platform syncing Senders, Receivers & Delivery Men.
+
+- 🔐 **JWT + Google Login** with role-based dashboards
+- 📊 React + Redux interactive parcel tracking
+- ⚡ **Redis**-powered caching for performance
+
+**Stack:** `React.js` `Redux Toolkit` `TypeScript` `Node.js` `MongoDB` `Redis` `Shadcn UI`
+
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://swiftdrop.vercel.app)
+[![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-client)
+[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-server)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-blue-nu-75.vercel.app/api?username=md-nasim-mondal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-nasim-mondal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nasim-mondal&theme=tokyonight&hide_border=true&card_width=700" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-nasim-mondal&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=md-nasim-mondal&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=10&no-frame=false" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-nasim-mondal/md-nasim-mondal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-nasim-mondal/md-nasim-mondal/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/md-nasim-mondal/md-nasim-mondal/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚠️ **Snake setup required** — see workflow instructions below ↓
+
+</div>
 
 
-### 🧰 &nbsp;Version Controll & Tools 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
-![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%23007ACC.svg?style=for-the-badge&logo=react-table&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-%231e1e1e.svg?style=for-the-badge&logo=stripe&logoColor=%2364C4ED)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-<!--![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
+---
+
+## 🎓 Education & Certifications
+
+| Degree / Course | Institution | Status |
+|---|---|---|
+| 🎓 B.Sc. in CSE | Uttara University | 2022 – 2026 (Expected) |
+| 📜 Complete Web Development | Programming Hero | ✅ Completed |
+| 📜 Next Level Web Development | Programming Hero | ✅ Completed |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nasim-mondal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nasim-mondal.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdnasimmondal622@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801627206676)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mdnasimmondal)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.nasim.mondal.737)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2575fc,100:6a11cb&height=130&section=footer"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=💡+Open+to+backend+roles+%26+full-stack+projects!;Let's+build+something+amazing+together+🚀;Thanks+for+visiting+my+profile+✨)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=md-nasim-mondal&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/md-nasim-mondal)
+![GitHub Stars](https://img.shields.io/github/stars/md-nasim-mondal)
+
+</div>

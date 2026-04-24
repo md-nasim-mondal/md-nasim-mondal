@@ -30,7 +30,7 @@
 
 ```typescript
 const nasim = {
-  role: "Backend Developer @ SparkTech",
+  role: "Backend Developer @ SparkTech Agency",
   location: "Gazipur, Dhaka, Bangladesh 🇧🇩",
   studying: "B.Sc in CSE @ Uttara University (Expected Graduate: 2026)",
 
@@ -57,7 +57,7 @@ const nasim = {
 
 ## 🔨 What I'm Currently Building
 
-> At **SparkTech**, I'm working as a **Backend Developer** — designing and shipping production-grade APIs and database systems every day.
+> At **SparkTech Agency**, I'm working as a **Backend Developer** — designing and shipping production-grade APIs and database systems every day.
 
 ```
 🏗️  Scalable REST APIs        →  Node.js + Express.js + TypeScript
@@ -75,7 +75,7 @@ const nasim = {
 <tr>
 <td>
 
-### 🏢 Backend Developer — **SparkTech**
+### 🏢 Backend Developer — **SparkTech Agency**
 `April 15, 2026 – Present`
 
 - 🔧 Designing and maintaining **production-grade REST APIs** with Node.js, Express.js & TypeScript

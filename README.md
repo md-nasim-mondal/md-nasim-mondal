@@ -77,7 +77,7 @@ const nasim = {
 <td>
 
 ### 🏢 Backend Developer — **SparkTech Agency**
-`April 15, 2026 – Present`
+`April, 2026 – Present`
 
 - 🔧 Designing and maintaining **production-grade REST APIs** with Node.js, Express.js & TypeScript
 - 🗄️ Architecting robust database schemas using **PostgreSQL (Prisma)** & **MongoDB (Mongoose)**

@@ -90,7 +90,7 @@ const nasim = {
 <td>
 
 ### 🏢 Full Stack Developer — **Spark71Tech**
-`Nov 5, 2025 – Jan 5, 2026`
+`Nov 2025 – Jan 2026`
 
 - 🏗️ Built scalable full-stack applications using **Next.js**, **TypeScript**, and **Tailwind CSS**
 - 🗄️ Developed backend architectures with **Express.js**, utilizing **MongoDB (Mongoose)** & **PostgreSQL (Prisma)**

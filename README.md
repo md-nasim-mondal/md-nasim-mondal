@@ -208,9 +208,9 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 - 🔍 Advanced search filters + review system
 - 💳 **Stripe** payment integration
 
-**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Stripe`
+**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Stripe.`
 
-[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://tourify-travel.vercel.app)
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://tourify-client.vercel.app)
 [![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/tourify-client)
 [![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/tourify-server)
 
@@ -226,9 +226,9 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 **Stack:** `React.js` `Redux Toolkit` `TypeScript` `Node.js` `MongoDB` `Redis` `Shadcn UI`
 
-[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://swiftdrop.vercel.app)
-[![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-client)
-[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/swiftdrop-server)
+[![Live](https://img.shields.io/badge/🌐_Live-00b894?style=flat-square)](https://swiftdrop-client.vercel.app)
+[![Client](https://img.shields.io/badge/📁_Client-0984e3?style=flat-square)](https://github.com/md-nasim-mondal/parcel-dms-client)
+[![Server](https://img.shields.io/badge/⚙️_Server-6c5ce7?style=flat-square)](https://github.com/md-nasim-mondal/parcel-dms-server)
 
 </td>
 </tr>

@@ -287,7 +287,6 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 ---
 ## 🐍 Contribution Snake
----
 
 <div align="center">
 

@@ -88,6 +88,8 @@ const nasim = {
 <tr>
 <td>
 
+----
+
 ### 🏢 Full Stack Developer — **Spark71Tech**
 `Nov 2025 – Jan 2026`
 

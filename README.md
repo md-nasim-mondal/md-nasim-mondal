@@ -156,7 +156,6 @@ const nasim = {
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0066CC?style=flat-square)
 
 ---
----
 
 ## 🧠 Working Style & Soft Skills
 

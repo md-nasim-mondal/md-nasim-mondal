@@ -337,4 +337,3 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 ![GitHub Stars](https://img.shields.io/github/stars/md-nasim-mondal)
 
 </div>
-----

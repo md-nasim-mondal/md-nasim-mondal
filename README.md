@@ -338,5 +338,3 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 </div>
 ---
-
----

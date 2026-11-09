@@ -303,7 +303,7 @@ MVC & Modular patterns, readable APIs, consistent naming conventions
 
 | Degree / Course | Institution | Status |
 |---|---|---|
-| 🎓 B.Sc. in CSE | Uttara University | 2022 – 2026 (Expected) |
+| 🎓 B.Sc. in CSE | Uttara University | 2022 – 2026 ✅ Graduated |
 | 📜 Complete Web Development | Programming Hero | ✅ Completed |
 | 📜 Next Level Web Development | Programming Hero | ✅ Completed |
 
